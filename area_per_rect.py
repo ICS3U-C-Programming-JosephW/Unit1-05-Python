@@ -9,7 +9,7 @@ def calc_area_perimeter(l, w):
     print("If a rectangle has the dimensions:")
     print(f"{l}cm x {w}cm \n")
     print(f"The area is: {l * w}cm^2")
-    print(f"The perimeter is {2 * (l + w)}cm")
+    print(f"The perimeter is: {2 * (l + w)}cm")
 
 
 if __name__ == "__main__":
